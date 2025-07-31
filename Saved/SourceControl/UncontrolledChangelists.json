@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/yadei/Documents/Unreal Projects/MoveCube/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/yadei/Documents/Unreal Projects/MoveCube/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/SI/L6RY2CZRF3CIISLB5B18TX.uasset",
+				"C:/Users/yadei/Documents/Unreal Projects/MoveCube/Content/FirstPerson/Blueprints/BoxCube.uasset",
+				"C:/Users/yadei/Documents/Unreal Projects/MoveCube/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/CW/2TGVMUZIFGLS7LN3TWSCDI.uasset"
+			]
+		}
+	]
+}
