@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/yadei/OneDrive/Documents/Unreal Projects/MoveCube/Content/IMC_PlayerControls.uasset",
+				"C:/Users/yadei/OneDrive/Documents/Unreal Projects/MoveCube/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/yadei/OneDrive/Documents/Unreal Projects/MoveCube/Content/IA_Click.uasset",
+				"C:/Users/yadei/OneDrive/Documents/Unreal Projects/MoveCube/Content/FirstPerson/Blueprints/BP_MyPlayerController.uasset",
+				"C:/Users/yadei/OneDrive/Documents/Unreal Projects/MoveCube/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
 				"C:/Users/yadei/Documents/Unreal Projects/MoveCube/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Users/yadei/Documents/Unreal Projects/MoveCube/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/SI/L6RY2CZRF3CIISLB5B18TX.uasset",
 				"C:/Users/yadei/Documents/Unreal Projects/MoveCube/Content/FirstPerson/Blueprints/BoxCube.uasset",
